@@ -31,8 +31,8 @@ jac_projects/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/misheckk/ai-career-advisor.git
-cd ai-career-advisor
+git clone https://github.com/Phlenstone/GenAI
+cd carreer
 2️⃣ Create and Activate a Virtual Environment
 bash
 Copy code
